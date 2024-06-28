@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
                     color = Color.Cyan
 
                 ) {
-                    ProfileTab()
+                    MyApp()
 
                 }
             }
